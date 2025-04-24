@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/clown-al-volo/static/js/main.4ad4277f.js",
+    "main.js": "/clown-al-volo/static/js/main.da774e97.js",
     "index.html": "/clown-al-volo/index.html",
-    "main.4ad4277f.js.map": "/clown-al-volo/static/js/main.4ad4277f.js.map"
+    "main.da774e97.js.map": "/clown-al-volo/static/js/main.da774e97.js.map"
   },
   "entrypoints": [
-    "static/js/main.4ad4277f.js"
+    "static/js/main.da774e97.js"
   ]
 }
